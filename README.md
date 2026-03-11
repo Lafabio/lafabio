@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou Lafabio
 
-<!--
-**Lafabio/lafabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspirante a desenvolvedor apaixonado por tecnologia
+🚀 Focado em aprender e criar projetos úteis na área da educação que ajude professores e alunos.
+📍 Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que uso (com ajuda de IA)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub stats]
+
+![Top Langs]
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 [Projeto 1](https://lafabio.github.io/cnt.edu1/)
+
+
+---
+
+## 📫 Contato
+
+📧 Email: prog.lafa@gmail.com
+💼 LinkedIn:https://www.linkedin.com/in/lafaiete-teixeira-pereira-erkmann-75949b275/
+
+---
+
+⭐ Obrigado por visitar meu perfil!
