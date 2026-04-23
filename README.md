@@ -9,20 +9,20 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gustavo000Yagame&label=Profile%20views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Lafabio&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo000Yagame&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_rank=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavo000Yagame&layout=compact&langs_count=8&theme=dracula" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lafabio&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_rank=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lafabio&layout=compact&langs_count=8&theme=dracula" height="160" alt="Top languages" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula&border_radius=5" height="170" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Lafabio&theme=dracula&border_radius=5" height="170" alt="streak stats" />
 </div>
 
 
