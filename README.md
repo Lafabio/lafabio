@@ -25,6 +25,9 @@
   <img src="https://streak-stats.demolab.com?user=Lafabio&theme=dracula&border_radius=5" height="170" alt="streak stats" />
 </div>
 
+###
+
+---
 
 ## 🧠 Tecnologias que uso (com ajuda de IA)
 
